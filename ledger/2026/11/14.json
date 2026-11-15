@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-14",
+  "previous_hash": "121eafc4aa2e7d12706b9cf7cfb0d695933c5eb8c70594454fd8f1dfc0cf6c5f",
+  "entries_count": 4,
+  "merkle_root": "b8521611058134068e91f0cf72838bc468f83b7f6d8381fca0a4fc6b8bccca95",
+  "entries": [
+    {
+      "id": "c4a9ade1-9d82-4fa7-a6b7-750c39f65855",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00054730",
+      "date": "2026-11-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-14",
+      "timestamp": "2026-11-15T02:00:03.896Z",
+      "signature": "6YbznKjqGVWtlyktOHZpwbbjJOlCU+VpIi3qB4FYppIVGDU4hj2QgE+uaJgM7rqATaZB+y6JYtq2e9GddzX5CA=="
+    },
+    {
+      "id": "a9b386d8-0c81-4dd0-8d94-fe8bf7e74580",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00018243",
+      "date": "2026-11-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-14",
+      "timestamp": "2026-11-15T02:00:03.930Z",
+      "signature": "4sLBytCXMp4R5ysewGv4WtffbUq424yWHzqd/zQ5Mrp4aGuzh9byQ4xD/56gmXDQpMhjFxDIwxQY6i3yqAaxDQ=="
+    },
+    {
+      "id": "a9e09715-ff2a-409b-aa1d-1fd9322a1e9a",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00009122",
+      "date": "2026-11-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-14",
+      "timestamp": "2026-11-15T02:00:03.955Z",
+      "signature": "IYIcz+gcN1zWvGQBi0GbfkyzLd5/YtVvqcQvL55aFisx9gixorMPG61OxJEBM5elBVN58JE/Ayv80+MqdqGpCw=="
+    },
+    {
+      "id": "68cc7942-dc2b-4d4a-880d-ed6fc1b96ed1",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00009122",
+      "date": "2026-11-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-14",
+      "timestamp": "2026-11-15T02:00:03.983Z",
+      "signature": "rQE80PGpkGK05D2oPE3Q1/hChgkYqX8anE+ny/QCAaVSoNwYu+pFzKcoPGAiVyM5191DsITYuyOPm93V6ICYAA=="
+    }
+  ],
+  "day_hash": "ecab3165a9afbdccbf794093bb8201e5d437a474adbb7398fde99edd3f493862"
+}
