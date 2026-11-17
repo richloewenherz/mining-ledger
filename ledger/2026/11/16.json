@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-16",
+  "previous_hash": "82b59a8db86742c21e5b69006f498fca46334e1b65f340805c7080cfbd1e3ed3",
+  "entries_count": 4,
+  "merkle_root": "349084b8adb653ee25a551243d72ac34859057d1dfcaaecc7f26b524604f3319",
+  "entries": [
+    {
+      "id": "a29c59b4-081c-4307-8b3a-be7ada1fb39d",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00045247",
+      "date": "2026-11-16",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-16",
+      "timestamp": "2026-11-17T02:00:02.915Z",
+      "signature": "/0QEWdppDTtsj6/owKSAeDsEdVGbVpCzcVk8KDBjrUVIjAtELK0xJNzesr/vE1USZut02dCBifXdzgxl5kXqAQ=="
+    },
+    {
+      "id": "90b7290f-cdc8-4791-9563-c2b461c7dae5",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00007541",
+      "date": "2026-11-16",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-16",
+      "timestamp": "2026-11-17T02:00:02.946Z",
+      "signature": "iBR43z6dxCpi2N5Y9QO97vdKgBG4t1KSpssvdZfWc3pgg5wRoIKCsDYbyxA5/9eJz7czJ9RrhsV30yq5/1HrAQ=="
+    },
+    {
+      "id": "9fe02970-8b41-47d5-904b-728906ff64f1",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00007541",
+      "date": "2026-11-16",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-16",
+      "timestamp": "2026-11-17T02:00:02.971Z",
+      "signature": "loYsbsNqmSZn0ntnxuOCa7NJGRzLDvtcsgwPPcG1k2GnjGGAiPsgDmt1ScynkbE+KMTF7glmcYsV/K9YU5RADg=="
+    },
+    {
+      "id": "38594524-5afa-4331-aa33-29d7d71d7ab0",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00015082",
+      "date": "2026-11-16",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-16",
+      "timestamp": "2026-11-17T02:00:02.995Z",
+      "signature": "pmzmyVXhMvNDhASI/a48xJV8uSr20l9ubx+f8qqujA3es9OrHDK7o+dtAuXXzd/pKAzpI1JQtlIVVSej8o4BDQ=="
+    }
+  ],
+  "day_hash": "c41a416b1aef759730faba2b7cdc283d2ae529135323cab5197b04bcc1349689"
+}
