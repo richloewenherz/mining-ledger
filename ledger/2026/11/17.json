@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-17",
+  "previous_hash": "c41a416b1aef759730faba2b7cdc283d2ae529135323cab5197b04bcc1349689",
+  "entries_count": 4,
+  "merkle_root": "6da3205b2f63e90927b30b263b7f319e64506aacd5845f25a49f6a6e7ae42be4",
+  "entries": [
+    {
+      "id": "565d0a51-4f50-477a-bb49-10c46a3a5831",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00041547",
+      "date": "2026-11-17",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-17",
+      "timestamp": "2026-11-18T02:00:03.262Z",
+      "signature": "D7mMmt0FgDbxxLyJdjlsNhFtcnS0rHsvvVg7BExc6q1ndI+Q+bNet0Y6Ztu1F9gt17T7KPqfgqjP1HhIBh5lCA=="
+    },
+    {
+      "id": "5121f287-ae89-4527-a87a-73ab26195232",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006925",
+      "date": "2026-11-17",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-17",
+      "timestamp": "2026-11-18T02:00:03.291Z",
+      "signature": "3AIeatqpiZghoauzoTGMLRsJAd5CZDAga7v336fMkHfSNDezj1DbxcROYJ5Tw9LRW28+U2Mixc8ULHTKeUgZAQ=="
+    },
+    {
+      "id": "b996dd7c-cd87-4ae9-b03a-73f2458e77f3",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006925",
+      "date": "2026-11-17",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-17",
+      "timestamp": "2026-11-18T02:00:03.316Z",
+      "signature": "9SIFIpbXXYR+MFzRo3U6IZnubLhsOPI4HD3RTW2+p8eTsczQOVBE9V3goWKVmx0V13j0i+l7kCJA8pUqbr57Cg=="
+    },
+    {
+      "id": "56628e0f-9b46-4a22-9981-78197813f38f",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00013849",
+      "date": "2026-11-17",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-17",
+      "timestamp": "2026-11-18T02:00:03.345Z",
+      "signature": "CDtwCvGnLsgHX/yMNdHd7oCsR65dmmDhkqgWZRRfyinRWxJ2hTWlcO5jYX1a7CPZF7+h7blO3PeoS3xNIMDDDw=="
+    }
+  ],
+  "day_hash": "66f240d46bcc1a8783bc7ce564cd89b38b4391effcd778cbb15fb9dd99cfb6a0"
+}
