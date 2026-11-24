@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-23",
+  "previous_hash": "6395c0e40c4c0ae4bc86541959c6a72a6e456bff9dd36f6e93f7ff84753342b0",
+  "entries_count": 4,
+  "merkle_root": "4fc81c869f5ac455e3f73e3dee9f4d7e8035ef2d2be1cff81868915c27659511",
+  "entries": [
+    {
+      "id": "c48cbc93-4c9b-4f9e-ac66-9aede79ce1b8",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00045574",
+      "date": "2026-11-23",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-23",
+      "timestamp": "2026-11-24T02:00:02.880Z",
+      "signature": "wZuV5dNIOe2L2qreLtiLmMpZInAo3WdaTYeAKKtOiVcAUT8pX3SeLCD1zyxuqe0LauCedzwdd1G7yiYq7BVlBg=="
+    },
+    {
+      "id": "442344d7-d37f-48b8-ad8e-64e50ab75c2e",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00007596",
+      "date": "2026-11-23",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-23",
+      "timestamp": "2026-11-24T02:00:02.922Z",
+      "signature": "ATWx+0+b0XtQisz0DNjl5BHKNNoVINHk49mYHC0DCmtharn8oCaP5WHPoSoQ4CwFSZG1bqLXjcnekF1ajSimCA=="
+    },
+    {
+      "id": "061bb8be-7dad-4f21-9b2d-c4abdf5ec689",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00007596",
+      "date": "2026-11-23",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-23",
+      "timestamp": "2026-11-24T02:00:02.958Z",
+      "signature": "tVdoA+evbryf13YX4o/oNQKGM8vbMUb/zaIIWwfTb8g55AXF9IQ8byxniT3+T7DnwRjIxW9z/msaqU+EvJxUAA=="
+    },
+    {
+      "id": "653e659c-68a9-4066-8874-b850b1c15df5",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00015191",
+      "date": "2026-11-23",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-23",
+      "timestamp": "2026-11-24T02:00:02.994Z",
+      "signature": "o8lBvneG+gl+RFrzQp/qrw2uqhQdb1srgxO3zoR9T6mEWRbZ4Xe4D8NpCQxEfYPEsq2waqdBMML73zzVMdenBA=="
+    }
+  ],
+  "day_hash": "546d0c022d5160388a1de16a98e1eea7e7d1057adfc4cd87975f731a8d7156ed"
+}
