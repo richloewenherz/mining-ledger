@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-24",
+  "previous_hash": "546d0c022d5160388a1de16a98e1eea7e7d1057adfc4cd87975f731a8d7156ed",
+  "entries_count": 4,
+  "merkle_root": "4b0474ab8da1fa330d9938ff517989423c38c672dc37ccfd579ec6a1de24ce9a",
+  "entries": [
+    {
+      "id": "fe33f168-f45b-4fc7-9464-dba5bb8bcd66",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00041632",
+      "date": "2026-11-24",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-24",
+      "timestamp": "2026-11-25T02:00:03.048Z",
+      "signature": "cKwW/hP7MzAxdTr5w5oOk9lHpFCePEKMpjj6JXzbilgeONNddZb7Mfu1+yWfWppzeZ6QAuE5nC0yTjFRggoLBg=="
+    },
+    {
+      "id": "289e2e9e-a220-4d26-b43b-d2caa3435b7b",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006939",
+      "date": "2026-11-24",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-24",
+      "timestamp": "2026-11-25T02:00:03.088Z",
+      "signature": "VxhPQLukQ1i6vKYOGLF5+zmHQ7CIAyILqQDDE7FTLZ8AskSvZddON8n8+i0vH/4+NcTIuFGsAseVyYoL9kpzBA=="
+    },
+    {
+      "id": "7f572d06-ce87-4633-80aa-6f2c8c5ac685",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00013877",
+      "date": "2026-11-24",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-24",
+      "timestamp": "2026-11-25T02:00:03.113Z",
+      "signature": "hJa8Gmqh3ew0J2HWh7kJK3Tpe9p8vCmwnF4vq4B+ySPMtJIOkQwK6CT2ghQSdxhJ0itOBfrlRtyqZlP4BCtGAQ=="
+    },
+    {
+      "id": "b8fd0c52-f2c9-4da9-9477-e5fe6b26f0b7",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006939",
+      "date": "2026-11-24",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-24",
+      "timestamp": "2026-11-25T02:00:03.135Z",
+      "signature": "MHYnpaepROrvIp3DwRj5Q7OuC7M5i+3n9Ln7wU7WrtOrIWVxQa7dsPUJszq/uu/OA72IhDEUTNTKGDbbtpT2Dw=="
+    }
+  ],
+  "day_hash": "edcae0cbbc11ef39c62d2a89d3c630e594193a991e197e4792111e9474fc235a"
+}
