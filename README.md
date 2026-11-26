@@ -2,7 +2,7 @@
 
 **Cryptographically signed. Pseudonymous. Tamper-proof. Auditable.**
 
-This repository contains the complete, verifiable record of all Bitcoin mining earnings credited by the operator of this ledger. The operator is identified on its verification page: https://mining.ruhl.ae/en/verify
+This repository contains the complete, verifiable record of all Bitcoin mining earnings credited by the operator of this ledger. The operator is identified on its verification page: https://www.ruhl-mining.com/verify
 
 ## How It Works
 
@@ -67,4 +67,4 @@ This follows the same principle as Bitcoin: **transparent transactions, pseudony
 
 *Don't trust us. Verify.*
 
-© the operator · https://mining.ruhl.ae/en/verify
+© the operator · https://www.ruhl-mining.com/verify

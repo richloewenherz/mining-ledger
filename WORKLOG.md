@@ -10,6 +10,11 @@ factual; the "why" matters more than the "what" (git already has the what).
 
 ---
 
+## 2026-11-26 — Verification page at www.ruhl-mining.com
+
+**Did:** README and CLAUDE.md name the verification page at https://www.ruhl-mining.com/verify. The address named until now, https://mining.ruhl.ae/en/verify, forwards there and stays valid. No ledger file, balance file or key was touched.
+**Why:** the service moved to its own domain on 2026-11-26. The signing key and every signed entry are unchanged; only the address of the page that identifies the operator and publishes the key is new.
+
 ## 2026-11-05 — Neutral documents, wider wallet-id pattern, rename pending
 
 **Did:** README, CLAUDE.md and this file no longer name a company: the publisher is "the operator", identified on the verification page https://mining.ruhl.ae/en/verify. `schema/entry.schema.json` has a neutral title and accepts wallet ids with the prefix `mbc_` (history) or `w_` (new); the prefix has no meaning. Two scripts: `scripts/check-neutral.sh` (no company name in the documents or schema) and `scripts/validate-all.mjs` (every day file validates against the schema, plus one synthetic `w_` entry). Branch `rebrand/neutral-docs`; `ledger/**`, `balances/**` and `pubkey.pem` are untouched.
